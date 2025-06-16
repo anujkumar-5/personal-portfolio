@@ -76,7 +76,7 @@ const Index = () => {
             <div className="relative mb-8">
                 <div className="w-32 h-32 mx-auto rounded-full bg-gradient-to-r from-purple-400 via-pink-500 to-blue-500 p-1">
                     <img
-                        src="public/ANUJ-3.JPG" 
+                        src="ANUJ-3.JPG" 
                         alt="Your Name"
                         className="w-full h-full rounded-full object-cover"
                     />
